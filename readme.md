@@ -10,4 +10,5 @@
     ```pip install -r ./.venv/requirements.txt```
 
 ### 其他
-（我需要把虚拟环境下下来吗？）
+- （我需要把虚拟环境下下来吗？）
+- 如果ipynb不能顺利运行，可以到colab中使用和测试
